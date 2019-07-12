@@ -10,7 +10,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Publications
 
+Recent publications include
+
+For a complete list
+
 ### R Packages
+
+latticeDensity
+
+CokrigeR
+
+diffusionMaps
 
 ## Teaching
 
